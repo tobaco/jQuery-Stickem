@@ -66,3 +66,8 @@ If you have a bunch of stuff that happens after your page has loaded (e.g. AJAX 
 sticky.destroy();</pre>
 
 Then you can re-instantiate again if you need to.
+
+
+---
+
+Offset test: http://jsfiddle.net/tobaco/ZxK4P/
